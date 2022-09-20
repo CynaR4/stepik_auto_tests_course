@@ -1,2 +1,4 @@
-# stepik_auto_tests_course
-Training and homework from the course
+The course on the stepik platform.Test automation using Python + Selenium + Webdriver
+
+
+https://stepik.org/course/575/syllabus?auth=login
